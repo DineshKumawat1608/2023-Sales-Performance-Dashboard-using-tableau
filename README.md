@@ -23,4 +23,4 @@ Tools & Skills
  This project helped me understand how visuals can make complex data easy to read and share.
  It’s great to see how one dashboard can show an entire year’s growth in just a few charts.
 
-hashtag#SalesDashboard hashtag#Tableau hashtag#DataAnalytics hashtag#BusinessIntelligence hashtag#DataVisualization hashtag#CustomerGrowth hashtag#2023Results
+link:- https://lnkd.in/eevGksxk
